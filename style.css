@@ -70,3 +70,6 @@
       color:  #003380
 ;
   }
+h3:focus{
+    font-size: 140%;
+}
