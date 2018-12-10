@@ -73,3 +73,19 @@
 h3:focus{
     font-size: 140%;
 }
+
+
+
+@media only screen and (max-width: 768px){
+body{
+    margin: 5% 5%;
+}
+
+
+
+
+
+
+
+
+}
